@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Atomicbomb.aternos.me",
-    "port": 58515,
+    "port": 5815,
     "version": "1.16.5",
     "try-creative": false
   },
